@@ -1,0 +1,4 @@
+﻿  mod5_2.c
+c:\users\thomas\documents\visual studio 2015\projects\mod5_2\mod5_2\mod5_2.c(32): warning C4013: 'strcmp' undefined; assuming extern returning int
+  mod5_2.vcxproj -> C:\Users\Thomas\documents\visual studio 2015\Projects\mod5_2\Debug\mod5_2.exe
+  mod5_2.vcxproj -> C:\Users\Thomas\documents\visual studio 2015\Projects\mod5_2\Debug\mod5_2.pdb (Full PDB)
